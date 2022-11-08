@@ -4,6 +4,7 @@ import { AppContext, useGlobalContext } from "./context";
 
 const Home = () => {
   const { openSideBar, openModal } = useGlobalContext();
+  // const data = useContext(AppContext);
   // console.log(data);
 
   return (

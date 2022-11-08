@@ -8,7 +8,7 @@ const Modal = () => {
   return (
     <div
       className={`${
-        isModalOpen ? "modal-overlay show-modal" : `modal-overlay`
+        isModalOpen ? "modal-overlay show-modal" : "modal-overlay"
       }`}
     >
       <div className="modal-container">

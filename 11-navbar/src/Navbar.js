@@ -5,8 +5,8 @@ import logo from "./logo.svg";
 
 const Navbar = () => {
   const [showLinks, setShowLinks] = useState(true);
-  const linksContainerRef = useRef(null);
-  const linksRef = useRef(null);
+  const linksContainerRef = useRef(null); //this is for Div
+  const linksRef = useRef(null); //this is for Unordered List
 
   useEffect(() => {
     const linksHeight = linksRef.current.getBoundingClientRect().height;
@@ -34,7 +34,6 @@ const Navbar = () => {
         <div className="links-container" ref={linksContainerRef}>
           <ul className="links" ref={linksRef}>
             {/* BELOW THE EXAMPLE OF HARD-CODING VALUES
-
              <li>
               <a href="#">Home</a>
             </li>
