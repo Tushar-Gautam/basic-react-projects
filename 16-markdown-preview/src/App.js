@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import ReactMarkdown from "react-markdown";
-import data from "./data";
+
 function App() {
-  const [markdown, setMarkdown] = useState(data);
+  const [markdown, setMarkdown] = useState("### Markdown Preview");
 
   return (
     <>
