@@ -1,3 +1,4 @@
 ## Screenshot
 
-![image] (https://github.com/Tushar-Gautam/basic-react-projects/blob/176367dd51c5e1db207a6739f0a4b0b84c1e5bb6/16-markdown-preview/Screenshot 2022-11-17 194653.png)
+![Screenshot 2022-11-17 194653](https://user-images.githubusercontent.com/44174387/202475334-6eace837-ea34-43a5-bf4a-2c08cc30f074.png)
+
