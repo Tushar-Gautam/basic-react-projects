@@ -1,26 +1,23 @@
 export default [
   {
     id: 1,
-    title: 'Samsung Galaxy S7',
+    title: "Samsung Galaxy S7",
     price: 599.99,
-    img:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1583368215/phone-2_ohtt5s.png',
+    img: "https://static.toiimg.com/thumb/resizemode-4,msid-54939763,imgsize-200,width-600,imgv-1/54939763.jpg",
     amount: 1,
   },
   {
     id: 2,
-    title: 'google pixel ',
+    title: "google pixel ",
     price: 499.99,
-    img:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1583371867/phone-1_gvesln.png',
+    img: "https://m.media-amazon.com/images/I/61bPca27RKL._SX679_.jpg",
     amount: 1,
   },
   {
     id: 3,
-    title: 'Xiaomi Redmi Note 2',
+    title: "Xiaomi Redmi Note 2",
     price: 699.99,
-    img:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1583368224/phone-3_h2s6fo.png',
+    img: "https://i01.appmifile.com/webfile/globalimg/in/cms/D7A7DA95-AEF8-228B-A2D2-A3FEBF237C33!800x800!85.jpg",
     amount: 1,
   },
 ];
